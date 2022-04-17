@@ -3,7 +3,7 @@
 #### This is a web application designed using HTML, CSS, JS, JQuery and Bootstrap allowing users to schedule events during a typical work day. The app shows the current date and time and color codes time blocks based on past, present, and future. 
 
 ## Link to Deployed Site
-
+ https://apjuve.github.io/daily-planner/
 
 ## Table of Contents
   * [Motivation](#motivation)
