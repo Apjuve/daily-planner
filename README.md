@@ -31,6 +31,9 @@ The app saves the users scheduled events in local storage so they can navigate a
 
 
 #### The demo shows the main functions of the quiz:
+
+![workday planner](https://drive.google.com/file/d/1K2szG7Lijb04kHxiTCnlypwLlTywW67X/view)
+
 * Date and time are displayed at the top of the page. 
 * The time blocks are editable and can be saved in local storage. 
 * The time blocks show hours past in grey, the current hour in red, and future hours in green. 
