@@ -33,7 +33,10 @@ The app saves the users scheduled events in local storage so they can navigate a
 #### The demo shows the main functions of the quiz:
 
 
-![Work Day Scheduler](https://user-images.githubusercontent.com/95586383/163728307-b8587723-7c11-4908-98fd-ca6dc6509dd5.gif)
+
+![Work Day Scheduler (2)](https://user-images.githubusercontent.com/95586383/163728708-c7a111be-9ab2-42ed-b84a-69134f331df7.gif)
+
+
 
 * Date and time are displayed at the top of the page. 
 * The time blocks are editable and can be saved in local storage. 
